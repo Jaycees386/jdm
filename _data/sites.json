@@ -3269,6 +3269,12 @@
         ]
     },
     {
+      "name": "Byond"
+        "url":"https://secure.byond.com/members/-/account"
+        "difficulty":"impossible"
+        "notes":"You cannot delete the account, but you can deactivate it and it will be possibly deleted after the owners feel it ok to delete old accounts."
+    },
+    {
         "name": "C&M News by Rеss.at",
         "url": "https://ress.at/profil/profil_entfernen.php",
         "difficulty": "easy",
