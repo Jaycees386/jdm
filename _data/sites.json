@@ -13146,6 +13146,12 @@
         ]
     },
     {
+        "name":"Meroshare"
+        "url":"https://meroshare.cdsc.com.np/#"
+        "difficulty":"impossible"
+        "notes":"If you wish to close your account, you must physically go to the nearest help centre and ask support there. But, closing all the account requires you to transfer or redeem all your shares."
+    },
+    {
         "name": "Mes Services Étudiant",
         "url": "https://www.messervices.etudiant.gouv.fr/envole/message/new",
         "difficulty": "hard",
